@@ -223,7 +223,7 @@ The API provides the following endpoints for CRUD operations on the "Person" res
 }
 ```
 
-### Delete a Person (DELETE /api/{name})
+### Delete a Person (DELETE /api/:id)
 
 **Response Format (Success - 200):**
 

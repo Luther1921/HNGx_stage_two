@@ -27,7 +27,8 @@ This project provides a simple REST API for managing person records, allowing yo
 ## Model Diagrams
 
 - Unified Modeling Language (UML)
-> ![uml](uml.png)
+> ![uml](![UML](https://github.com/Luther1921/HNGx_stage_two/assets/115670341/e8c0f80a-16fd-430e-8b8e-b35fc29233ca)
+)
 -  Entity-Relationship Diagram (ERD)
 > ![erd](erd.png)
 
